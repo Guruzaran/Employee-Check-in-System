@@ -1,4 +1,4 @@
-#Employee-Check-in-System
+Employee-Check-in-System
 
 Problem Statement:
 As the Security Analyst at Stark Industries, the task is to develop a contactless employee check-in system. The current system relies on physical keycards for entry, which presents limitations. The proposed solution involves utilizing employees' smartphones and machine learning techniques, specifically gait analysis, to create a seamless and secure entry system.
